@@ -9,7 +9,6 @@
     }
   },
   "dependencies": {
-    "nativescript-amqp": "file:..",
     "nativescript-rabbitmq": "file:..",
     "tns-core-modules": "^2.0.0"
   },
