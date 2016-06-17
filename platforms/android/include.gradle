@@ -1,0 +1,11 @@
+android {
+    productFlavors {
+        "nativescript-rabbitmq" {
+            dimension "nativescript-rabbitmq"
+        }
+    }
+}
+
+dependencies {
+    compile 'com.rabbitmq:amqp-client:3.6.0'
+}

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "removeComments": true,
+        "experimentalDecorators": true,
+        "sourceMap": false
+    },
+    "files": [
+        "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
+        "src/nativescript-rabbitmq.android.ts", 
+        "src/nativescript-rabbitmq.ios.ts"
+    ],
+    "compileOnSave": false
+}
